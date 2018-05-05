@@ -16,7 +16,7 @@
 	pip install pandas
 
 
-4. TweetScraper
+4. TweetScraper   (* This is only need to collect new tweets)
 
 	https://github.com/jonbakerfish/TweetScraper
 
